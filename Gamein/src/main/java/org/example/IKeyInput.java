@@ -4,7 +4,7 @@ public class IKeyInput {
     public void keyPressed(){
 
     }
-    public void keyreleased(int){
+    public void keyreleased(){
 
     }
 }
